@@ -4,7 +4,7 @@
 Information for reviewers
 This page contains the links to the code of our certification framework components and all certification artifacts at their basis.
 
-A running version of our sytem is available [here](http:///framework)
+A running version of our sytem is available [here](http://159.149.70.50:3000/index.html)
 
 Software
 
@@ -13,6 +13,8 @@ Software
 	- [Test Manager] (http://github.com/)
 
 	- [Test Agent]   (http://github.com/)
+
+	sorry, url were anonymezed.
 
 XML SCHEMA
 	
